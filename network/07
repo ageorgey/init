@@ -1,0 +1,2 @@
+#!/bin/bash
+nslookup slash.org 8.8.8.8
